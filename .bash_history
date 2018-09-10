@@ -15,3 +15,12 @@ apt-get update
 sudo su
 ls
 sudo su
+git --version
+python3 --version
+pwd
+git status
+sudo su
+git --version
+python --version
+python3 --version
+git --version
